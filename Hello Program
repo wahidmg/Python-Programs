@@ -1,0 +1,35 @@
+# Author : Mohammed Golam Wahid
+# WAP in PYTHON to print Hello World 
+
+
+# Option: 1 
+print("Hello World!")
+
+# Option: 2
+x = "Hello"
+y = ""
+z = "World"
+print(x, y, z)
+
+# Option: 3
+x = "Hello"
+y = " "
+z = "World"
+print(x+y+z)
+
+# Option: 4
+a= "Hello"
+b= "World"
+print (a.upper(),b.upper())
+
+# Option: 5
+a= "Hello"
+b= "World"
+print (a.lower(),b.lower())
+
+# OUTPUT
+# Hello World!
+# Hello  World
+# Hello World
+# HELLO WORLD
+# hello world
