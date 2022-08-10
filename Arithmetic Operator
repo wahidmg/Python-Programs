@@ -1,0 +1,51 @@
+# Write a program to use all the Arithmetical Operator
+# Operator	Name	            Example	
+# +	      Addition	          x + y	
+# -	      Subtraction	        x - y	
+# *	      Multiplication	    x * y	
+# /	      Division	          x / y	
+# %	      Modulus	            x % y	
+# **	    Exponentiation	    x ** y	
+# //	    Floor division	    x // y	
+
+
+x=10
+y=5
+
+# +	      Addition	      x + y	
+a=x+y
+print(a)
+
+# -	      Subtraction	      x - y
+b=x-y
+print(b)
+
+# *	      Multiplication	x * y	
+c=x*y
+print(c)
+
+# /	      Division	      x / y	
+d=x/y
+print(d)
+
+# %	      Modulus	      x % y	
+e= x % y 
+print(e)
+
+# **	  Exponentiation	x ** y	
+f= x ** y
+print(f)
+
+# //	  Floor division	x // y	
+g= x//y
+print(g)
+
+
+# OUTPUT
+# 15
+# 5
+# 50
+# 2.0
+# 0
+# 100000
+# 2
